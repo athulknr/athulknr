@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/athul k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athul k" height="30" width="40" /></a>
 <a href="https://kaggle.com/athulk666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="athulk666" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29677588/athulk" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.Kn4u32_gHL3CArN6ieQN3wHaHa&pid=Api&P=0&h=180" alt="athulk" height="30" width="40" /></a>
-<a href="https://peerlist.io/athulk" target="blank">img align="center" src="[https://tse4.mm.bing.net/th?id=OIP.Kn4u32_gHL3CArN6ieQN3wHaHa&pid=Api&P=0&h=180](https://www.bing.com/images/searchq=peerlist%20logo&FORM=IQFRBA&id=8B5F15B1F7ED37FBFC66A75B16FC8639029FC03B)" alt="athulk" height="30" width="40" /></a>
+[![Peerlist](https://github-readme-badge.peerlist.io/api/athulk?style=social)](https://peerlist.io/athulk)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
